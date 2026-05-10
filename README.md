@@ -93,12 +93,12 @@ Determine if a binary string contains four consecutive `1`s, considering the str
 4. Pythonic version — Leverage Python idioms for clean, readable code
 5. Final solution — Balance between readability and performance
 
-### Solutions Complexities
+## Solutions Complexities
 
-## Problem 1
+### Problem 1
 - Time Complexity --> O(N)
 - Space Complexity --> O(1)
 
-## Problem 2
+### Problem 2
 - Time Complexity --> O(N)
 - Space Complexity --> O(1)
